@@ -1,0 +1,8 @@
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\bin\Debug\ExportToExcel.exe.config
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\bin\Debug\ExportToExcel.exe
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\bin\Debug\ExportToExcel.pdb
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\bin\Debug\EPPlus.dll
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\bin\Debug\EPPlus.xml
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\obj\Debug\ExportToExcel.csprojResolveAssemblyReference.cache
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\obj\Debug\ExportToExcel.exe
+C:\Local Disc D\Repos\SoftUni\03 - C# Advanced\07.Functional Programming\ExportToExcel\obj\Debug\ExportToExcel.pdb
